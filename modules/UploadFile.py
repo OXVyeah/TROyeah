@@ -10,7 +10,7 @@ from github3 import *
 def connect_to_github():
     gh = login(username="OXVyeah", password="heiya233")
     #print(gh)
-    repo = gh.repository("OXVyeah", "yeah")
+    repo = gh.repository("OXVyeah", "TROyeah")
     #print(repo)
     branch = repo.branch("master")
 
@@ -36,4 +36,4 @@ def run(path):
 	gh, repo, branch=connect_to_github()
 	uploadFilesToGit(path,repo)
 
-run("C:\pyworks\getmac.py")
+#run("C:\pyworks\getmac.py")
