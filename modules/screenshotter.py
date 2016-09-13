@@ -31,7 +31,7 @@ def run(**args):
     mem_dc.BitBlt((0, 0), (width, height), img_dc, (left, top), win32con.SRCCOPY)
 
     # save the bitmap to a file
-    os.mkdir(r'C:\pyworks\scr')
+    os.mkdir(r'C:/pyworks/scr')
     screenshot.SaveBitmapFile(mem_dc, 'C:\pyworks\scr\scr.bmp')
     img=mem_dc
     # free our objects
