@@ -370,6 +370,29 @@ def upFile(oricon,msg,comment):
 [B][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
 a[ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
 sdfghjkl;[ PID: 3944 - ? - pyworks ]
+[Prior][Prior][Prior][Return][ PID: 8016 - ï¿½@ - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
+ghkhjklkhjhghfgdfsasddfghjk[ PID: 4184 - firefox.exe - Pythonï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð´ï¿½Ä¼ï¿½ - - ITeyeï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Õ¾ - Mozilla Firefox ]
+[Down][Down][Down][Down]python[Space][Lshift]wenj[Space]duqu[Space][Return][ PID: 4184 - firefox.exe - Pythonï¿½ï¿½Ð´ï¿½Ä¼ï¿½ - AllenW - ï¿½ï¿½ï¿½ï¿½Ô° - Mozilla Firefox ]
+[Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][ PID: 8016 - ï¿½ - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
+[Back][Back]/[Right][Right][Right][Right][Right][Right][Right][Right][Right][Right][Left][Back][Back]/[Right][Right][Right][Right][Right][Right][Right][Right][Back][Back]/[Delete][Lshift]"[Delete][Rshift]C[Delete][Lshift]"[Left][Right][Right][Right][Lcontrol][S][ PID: 8016 - ï¿½ - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
+[B][Return][ PID: 8016 - ï¿½ - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
+file[Lshift]Handel[Space]=[Space][Lshift][Lshift][Lshift]None[Lcontrol][S][ PID: 8016 - ï¿½ - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
+[B][ PID: 8016 - ï¿½ - C:\pyworks\before\git_trojan.py - Sublime Text (UNREGISTERED) ]
+d[ PID: 8016 - ï¿½ - C:\pyworks\before\git_trojan.py ? - Sublime Text (UNREGISTERED) ]
+a[Back][Back][Lshift][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Down][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Lcontrol][C][Lcontrol][PASTE] - ====================[Lcontrol][C][Return][Lcontrol][PASTE] - ====================[Lcontrol][Lshift][Oem_2]ds[Back][Back][ PID: 8016 - ? - C:\pyworks\finale(9.13)\fileOperationForHacker.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][C][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
+[Return][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
+[Return][Return][Up][Up][Lcontrol][PASTE] - 
+#ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½
+def upFile(oricon,msg,comment):
+	if oricon == None : print "dont have such file\n" ;return;
+	orimsg=base64.decodestring(str(oricon.content))
+	oricon.update(comment,orimsg+msg)[S][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][B][Down][Right][Delete][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
+[Delete][Delete][Delete][Delete][Lcontrol][S][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
+[B][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
+a[ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
+sdfghjkl;[ PID: 3944 - ? - pyworks ]
 [Prior][Prior][Prior][Return][ PID: 8016 - Ä@ - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
 ghkhjklkhjhghfgdfsasddfghjk[ PID: 4184 - firefox.exe - PythonÎÄ¼þ²Ù×÷¶ÁÐ´ÎÄ¼þ - - ITeye¼¼ÊõÍøÕ¾ - Mozilla Firefox ]
 [Down][Down][Down][Down]python[Space][Lshift]wenj[Space]duqu[Space][Return][ PID: 4184 - firefox.exe - Python¶ÁÐ´ÎÄ¼þ - AllenW - ²©¿ÍÔ° - Mozilla Firefox ]
