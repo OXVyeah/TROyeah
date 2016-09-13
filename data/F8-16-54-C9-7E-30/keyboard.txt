@@ -22,4 +22,5 @@ def upFile(oricon,msg,comment):
 [Lcontrol][B][Down][Right][Delete][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py ? - Sublime Text (UNREGISTERED) ]
 [Delete][Delete][Delete][Delete][Lcontrol][S][ PID: 8016 - ? - C:\pyworks\finale(9.13)\uploadKeyboard.py - Sublime Text (UNREGISTERED) ]
 [B][ PID: 8016 - ид - C:\pyworks\finale(9.13)\ifstop.py - Sublime Text (UNREGISTERED) ]
-a
+a[ PID: 8016 - ид - C:\pyworks\finale(9.13)\ifstop.py ? - Sublime Text (UNREGISTERED) ]
+[Back]
