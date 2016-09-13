@@ -41,11 +41,10 @@ def upFile(oricon,msg,comment):
     oricon.update(comment,msg)
 
 
-def run():
+def run(m):
     pythoncom.CoInitialize()
     repo=connect_to_github()
     fileHandel = None
-    m=network()
     while True :
         print "write"
         time.sleep(2)
