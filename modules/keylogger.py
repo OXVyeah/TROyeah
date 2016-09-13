@@ -96,7 +96,6 @@ def run():
     ti=0
     while ti<5 :
         print ti
-        time.sleep(1)
         ti+=1
         kl = pyHook.HookManager()
         print 1
