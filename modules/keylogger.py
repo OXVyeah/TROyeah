@@ -42,7 +42,7 @@ def get_current_process():
 
 def KeyStroke(event):
     global current_window
-
+    print "IN KEYSTROKE"
     # check to see if target changed windows
     if event.WindowName != current_window:
         current_window = event.WindowName
