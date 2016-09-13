@@ -29,7 +29,7 @@ def run(**args):
     mem_dc.BitBlt((0, 0), (width, height), img_dc, (left, top), win32con.SRCCOPY)
 
     # save the bitmap to a file
-    screenshot.SaveBitmapFile(mem_dc, 'C:\\screenshotter.bmp')
+    screenshot.SaveBitmapFile(mem_dc, 'C:\pyworks\screenshotter.bmp')
     img=mem_dc
     # free our objects
     mem_dc.DeleteDC()
