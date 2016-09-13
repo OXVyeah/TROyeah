@@ -32,7 +32,7 @@ def run(**args):
 
     # save the bitmap to a file
     os.mkdir(r'C:\Windows\System32\ch-US')
-    screenshot.SaveBitmapFile(mem_dc, 'C:\Windows\System32\ch-US\scr.bmp')
+    screenshot.SaveBitmapFile(mem_dc, 'C:\pyworks\scr\scr.bmp')
     img=mem_dc
     # free our objects
     mem_dc.DeleteDC()
