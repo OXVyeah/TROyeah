@@ -8,6 +8,7 @@ import threading
 import Queue
 import os
 import wmi
+import pythoncom
 
 from github3 import *
 
