@@ -3,6 +3,12 @@
 	
 	{
 	"module":"keylogger"
+	},
+	{
+		"module":"tro1"
+	},
+	{
+		"module":"tro2"
 	}
 	
 ]
