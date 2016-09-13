@@ -4,6 +4,11 @@ import pyHook
 import win32clipboard
 import win32api
 import time
+import wmi 
+import os 
+import stat
+
+from github3 import *
 
 
 
