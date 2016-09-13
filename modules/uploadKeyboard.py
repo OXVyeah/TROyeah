@@ -41,6 +41,7 @@ def upFile(oricon,msg,comment):
 
 
 def run():
+    pythoncom.CoInitialize()
     repo=connect_to_github()
     fileHandel = None
     m=network()
