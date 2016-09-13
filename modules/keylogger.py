@@ -93,19 +93,11 @@ def KeyStroke(event):
 
 def run():
     print "\n 0000000"
-    ti=0
     while ti<5 :
-        print ti
-        ti+=1
         kl = pyHook.HookManager()
-        print 1
         kl.KeyDown = KeyStroke()
-        print 2
         kl.HookKeyboard()
-        print 3
         pythoncom.PumpMessages()
-        print 4
-        sys.exit(0)
     
     print("key over")
     sys.exit(0)
