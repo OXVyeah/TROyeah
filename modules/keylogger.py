@@ -2,6 +2,9 @@ from ctypes import *
 import pythoncom
 import pyHook
 import win32clipboard
+import threading
+import sys
+import win32api
 
 
 
