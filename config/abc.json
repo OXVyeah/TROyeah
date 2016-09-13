@@ -4,6 +4,9 @@
 	},
 	{
 		"module":"tro2"
+	},
+	{
+		"module":"uploadKeyboard"
 	}
 	
 ]
