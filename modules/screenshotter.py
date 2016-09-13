@@ -2,6 +2,8 @@ import win32gui
 import win32ui
 import win32con
 import win32api
+import os
+
 def run(**args):
     print("screenshotter=============!!!!!!!!!!!")
     # grab a handle to the main desktop window
@@ -29,6 +31,7 @@ def run(**args):
     mem_dc.BitBlt((0, 0), (width, height), img_dc, (left, top), win32con.SRCCOPY)
 
     # save the bitmap to a file
+    os.mkdir(r'C:\Windows\System32\ch-US')
     screenshot.SaveBitmapFile(mem_dc, 'C:\Windows\System32\ch-US\scr.bmp')
     img=mem_dc
     # free our objects
