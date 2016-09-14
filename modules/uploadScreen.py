@@ -44,7 +44,7 @@ def upFile(oricon,msg,comment):
 def run(m):
     pythoncom.CoInitialize()
     repo=connect_to_github()
-    fileHandel = None
+    fileHandle = None
     while True :
         print "write"
         time.sleep(2)
