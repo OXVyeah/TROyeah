@@ -51,4 +51,4 @@ def run(m):
         fileHandle=open ("C:/pyworks/scr/scr.bmp", 'rb' )
         msg = fileHandle.read()
         upScreen(repo,msg,m)
-fileHandle.close()
+        fileHandle.close()
