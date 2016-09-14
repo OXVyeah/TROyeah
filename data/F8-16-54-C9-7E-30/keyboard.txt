@@ -1,8 +1,12 @@
 [ PID: 5000 - notepad++.exe - new 3 - Notepad++ ]
 a[Return][ PID: 5000 - notepad++.exe - *new 3 - Notepad++ ]
 [Lshift][ PID: 5000 - notepad++.exe - *new 3 - Notepad++ ]
-abcdefg123456798
-++++++++++++++++++++
-++++++++++++++++++
-+6666666666666666666666
-++++++++++++
+abcdefg123456798[ PID: 8048 - firefox.exe - Editing TROyeah/F8-16-54-C9-7E-30.json at master ¡¤ OXVyeah/TROyeah - Mozilla Firefox ]
+,[Lshift]{[Lshift]"module[Lshift]"[Lshift]:[Lshift]"upload[Lshift]Keyboard,[Lshift]"[Back][Lshift]{[Lshift]"modeu[Back][Back]ule[Right][Lshift]:[Lshift]"upload[Rshift]Screen[ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][B][ PID: 8048 - firefox.exe - Editing TROyeah/uploadScreen.py at master ¡¤ OXVyeah/TROyeah - Mozilla Firefox ]
+[Back][Back]le[ PID: 3816 - ? - C:\pyworks\finale(9.13)\project\UI2.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][B][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][B][ PID: 3356 - ? - zh-CN ]
+[Lcontrol][C][ PID: 8048 - firefox.exe - Editing TROyeah/uploadScreen.py at master ¡¤ OXVyeah/TROyeah - Mozilla Firefox ]
+[Tab][Tab][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][B]
