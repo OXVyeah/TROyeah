@@ -1,0 +1,730 @@
+metasploit-framework 4.12.24+20160913092438.git.2.5cbdadc-1rapid7 license: "Unspecified"
+
+
+
+
+
+This product bundles bundler 1.10.6,
+which is available under a "Unspecified" License.
+
+This product bundles metasploit-framework master,
+which is available under a "Unspecified" License.
+
+This product bundles metasploit-framework-wrappers-windows 1.0.0,
+which is available under a "Unspecified" License.
+
+This product bundles pcaprub 0.12.0,
+which is available under a "Unspecified" License.
+
+This product bundles postgresql-windows 9.4.5,
+which is available under a "Unspecified" License.
+
+This product bundles ruby-windows 2.1.7,
+which is available under a "Unspecified" License.
+
+This product bundles ruby-windows-devkit 4.7.2-20130224-1151,
+which is available under a "Unspecified" License.
+
+This product bundles rubygems 2.4.5,
+which is available under a "Unspecified" License.
+
+This product bundles winpcap-devpack 4.1.2,
+which is available under a "Unspecified" License.
+
+
+
+
+This product includes rake 11.2.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rake-11.2.2-MIT-LICENSE
+
+This product includes i18n 0.7.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-i18n-0.7.0-MIT-LICENSE
+
+This product includes json 1.8.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'Ruby' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-json-1.8.3-COPYING
+
+This product includes minitest 5.9.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+
+
+This product includes thread_safe 0.3.5
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'Apache-2.0' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-thread_safe-0.3.5-LICENSE
+
+This product includes tzinfo 1.2.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-tzinfo-1.2.2-LICENSE
+
+This product includes activesupport 4.2.7.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-activesupport-4.2.7.1-MIT-LICENSE
+
+This product includes builder 3.2.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-builder-3.2.2-MIT-LICENSE
+
+This product includes erubis 2.7.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-erubis-2.7.0-MIT-LICENSE
+
+This product includes mini_portile2 2.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-mini_portile2-2.1.0-LICENSE.txt
+
+This product includes pkg-config 1.1.7
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'LGPLv2+' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-pkg-config-1.1.7-LGPL-2.1
+
+This product includes nokogiri 1.6.8
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-nokogiri-1.6.8-LICENSE.txt
+
+This product includes rails-deprecated_sanitizer 1.0.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+
+
+This product includes rails-dom-testing 1.0.7
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rails-dom-testing-1.0.7-LICENSE.txt
+
+This product includes loofah 2.0.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-loofah-2.0.3-MIT-LICENSE.txt
+
+This product includes rails-html-sanitizer 1.0.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+
+
+This product includes actionview 4.2.7.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-actionview-4.2.7.1-MIT-LICENSE
+
+This product includes rack 1.6.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rack-1.6.4-COPYING
+
+This product includes rack-test 0.6.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rack-test-0.6.3-MIT-LICENSE.txt
+
+This product includes actionpack 4.2.7.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-actionpack-4.2.7.1-MIT-LICENSE
+
+This product includes activemodel 4.2.7.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-activemodel-4.2.7.1-MIT-LICENSE
+
+This product includes arel 6.0.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-arel-6.0.3-MIT-LICENSE.txt
+
+This product includes activerecord 4.2.7.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-activerecord-4.2.7.1-MIT-LICENSE
+
+This product includes addressable 2.4.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'Apache-2.0' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-addressable-2.4.0-LICENSE.txt
+
+This product includes arel-helpers 2.3.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes ffi 1.9.14
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-3-Clause' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-ffi-1.9.14-COPYING
+C:/metasploit-framework/LICENSES/ruby_bundler-ffi-1.9.14-LICENSE
+
+This product includes childprocess 0.5.9
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-childprocess-0.5.9-LICENSE
+
+This product includes contracts 0.14.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-2-Clause' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-contracts-0.14.0-LICENSE
+
+This product includes gherkin 4.0.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-gherkin-4.0.0-LICENSE
+
+This product includes cucumber-core 1.5.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-cucumber-core-1.5.0-LICENSE
+
+This product includes cucumber-wire 0.0.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+
+
+This product includes diff-lcs 1.2.5
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-diff-lcs-1.2.5-License.rdoc
+
+This product includes multi_json 1.12.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-multi_json-1.12.1-LICENSE.md
+
+This product includes multi_test 0.1.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-multi_test-0.1.2-LICENSE
+
+This product includes cucumber 2.4.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-cucumber-2.4.0-LICENSE
+
+This product includes rspec-support 3.5.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rspec-support-3.5.0-LICENSE.md
+
+This product includes rspec-expectations 3.5.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rspec-expectations-3.5.0-LICENSE.md
+
+This product includes thor 0.19.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-thor-0.19.1-LICENSE.md
+
+This product includes aruba 0.14.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-aruba-0.14.2-LICENSE
+
+This product includes bcrypt 3.1.11
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-bcrypt-3.1.11-COPYING
+
+This product includes bit-struct 0.15.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'Ruby' License.
+For details, see:
+
+
+This product includes bundler 1.10.6
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-bundler-1.10.6-LICENSE.md
+
+This product includes mime-types-data 3.2016.0521
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-mime-types-data-3.2016.0521-Licence.md
+
+This product includes mime-types 3.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-mime-types-3.1-Licence.rdoc
+
+This product includes xpath 2.0.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes capybara 2.8.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-capybara-2.8.1-License.txt
+
+This product includes coderay 1.1.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-coderay-1.1.1-README_INDEX.rdoc
+
+This product includes railties 4.2.7.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+
+
+This product includes cucumber-rails 1.4.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-cucumber-rails-1.4.4-LICENSE
+
+This product includes docile 1.1.5
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-docile-1.1.5-LICENSE
+
+This product includes factory_girl 4.7.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-factory_girl-4.7.0-LICENSE
+
+This product includes factory_girl_rails 4.7.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-factory_girl_rails-4.7.0-LICENSE
+
+This product includes multipart-post 2.0.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-multipart-post-2.0.0-README.md
+
+This product includes faraday 0.9.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-faraday-0.9.2-LICENSE.md
+
+This product includes filesize 0.1.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-filesize-0.1.1-LICENSE
+
+This product includes fivemat 1.3.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-fivemat-1.3.2-LICENSE
+C:/metasploit-framework/LICENSES/ruby_bundler-fivemat-1.3.2-MIT-LICENSE
+
+This product includes rkelly-remix 0.0.6
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+
+
+This product includes jsobfu 0.4.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-3-Clause' License.
+For details, see:
+
+
+This product includes metasm 1.0.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'LGPL' License.
+For details, see:
+
+
+This product includes metasploit-concern 2.0.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-3-clause' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-metasploit-concern-2.0.1-LICENSE
+
+This product includes metasploit-model 2.0.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-metasploit-model-2.0.0-LICENSE
+
+This product includes pg 0.18.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-pg-0.18.4-LICENSE
+
+This product includes pg_array_parser 0.0.9
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes postgres_ext 3.0.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+
+
+This product includes recog 2.0.22
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-recog-2.0.22-COPYING
+C:/metasploit-framework/LICENSES/ruby_bundler-recog-2.0.22-LICENSE
+
+This product includes metasploit_data_models 2.0.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-metasploit_data_models-2.0.0-LICENSE
+
+This product includes rubyntlm 0.6.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rubyntlm-0.6.0-LICENSE
+
+This product includes rubyzip 1.2.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD 2-Clause' License.
+For details, see:
+
+
+This product includes metasploit-credential 2.0.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-3-clause' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-metasploit-credential-2.0.3-LICENSE
+
+This product includes metasploit-payloads 1.1.13
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '3-clause (or "modified") BSD' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-metasploit-payloads-1.1.13-LICENSE
+
+This product includes metasploit_payloads-mettle 0.0.6
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '3-clause (or "modified") BSD' License.
+For details, see:
+
+
+This product includes msgpack 1.0.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'Apache 2.0' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-msgpack-1.0.0-LICENSE
+
+This product includes nessus_rest 0.1.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-nessus_rest-0.1.4-LICENSE.txt
+
+This product includes net-ssh 3.2.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-net-ssh-3.2.0-LICENSE.txt
+
+This product includes network_interface 0.0.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-network_interface-0.0.1-LICENSE
+
+This product includes sawyer 0.7.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-sawyer-0.7.0-LICENSE.md
+
+This product includes octokit 4.3.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-octokit-4.3.0-LICENSE.md
+
+This product includes openssl-ccm 1.2.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-openssl-ccm-1.2.1-LICENSE
+
+This product includes openvas-omp 0.0.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-openvas-omp-0.0.4-LICENSE.txt
+
+This product includes pcaprub 0.12.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'LGPL-2.1' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-pcaprub-0.12.4-LICENSE
+
+This product includes packetfu 1.1.11
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-packetfu-1.1.11-LICENSE.txt
+
+This product includes patch_finder 1.0.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-3-clause' License.
+For details, see:
+
+
+This product includes redcarpet 3.3.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-redcarpet-3.3.4-COPYING
+
+This product includes rex-text 0.2.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-text-0.2.1-LICENSE
+
+This product includes rex-arch 0.1.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-arch-0.1.1-LICENSE
+
+This product includes rex-core 0.1.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes rex-struct2 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-struct2-0.1.0-LICENSE
+
+This product includes rex-bin_tools 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-bin_tools-0.1.0-LICENSE
+
+This product includes rex-java 0.1.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes rex-mime 0.1.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-mime-0.1.1-LICENSE
+
+This product includes rex-nop 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes rex-ole 0.1.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-ole-0.1.2-LICENSE
+
+This product includes rex-random_identifier 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes rex-powershell 0.1.64
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-powershell-0.1.64-LICENSE
+
+This product includes rex-registry 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-registry-0.1.0-LICENSE
+
+This product includes rex-socket 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes rex-sslscan 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes rex-zip 0.1.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rex-zip-0.1.0-LICENSE
+
+This product includes robots 0.10.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a '' License.
+For details, see:
+
+
+This product includes sqlite3 1.3.11
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-3' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-sqlite3-1.3.11-LICENSE
+
+This product includes sshkey 1.8.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-sshkey-1.8.0-LICENSE
+
+This product includes tzinfo-data 1.2016.6
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-tzinfo-data-1.2016.6-LICENSE
+
+This product includes windows_error 0.0.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-windows_error-0.0.2-LICENSE.txt
+
+This product includes metasploit-framework 4.12.24
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'BSD-3-clause' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-metasploit-framework-4.12.24-COPYING
+C:/metasploit-framework/LICENSES/ruby_bundler-metasploit-framework-4.12.24-LICENSE
+
+This product includes method_source 0.8.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-method_source-0.8.2-LICENSE
+
+This product includes slop 3.6.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-slop-3.6.0-LICENSE
+
+This product includes pry 0.10.4
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-pry-0.10.4-LICENSE
+
+This product includes rspec-core 3.5.3
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rspec-core-3.5.3-LICENSE.md
+
+This product includes rspec-mocks 3.5.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rspec-mocks-3.5.0-LICENSE.md
+
+This product includes rspec-rails 3.5.2
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-rspec-rails-3.5.2-LICENSE.md
+
+This product includes shoulda-matchers 3.1.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-shoulda-matchers-3.1.1-MIT-LICENSE
+
+This product includes simplecov-html 0.10.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-simplecov-html-0.10.0-LICENSE
+
+This product includes simplecov 0.12.0
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-simplecov-0.12.0-MIT-LICENSE
+
+This product includes timecop 0.8.1
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-timecop-0.8.1-LICENSE
+
+This product includes yard 0.9.5
+which is a 'ruby_bundler' dependency of 'metasploit-framework',
+and which is available under a 'MIT' License.
+For details, see:
+C:/metasploit-framework/LICENSES/ruby_bundler-yard-0.9.5-LICENSE
+
