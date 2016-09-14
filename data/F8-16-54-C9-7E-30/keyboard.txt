@@ -1,15 +1,2 @@
-aaaaaafewvvdaffhaifc
-++++++
-++++++
-[ PID: 4876 - NOTEPAD.EXE - pathsssss.txt - 记事本 ]
-[Lcontrol][S][ PID: 3356 - Explorer.EXE - Windows8_OS (C:) ]
-[Next][Next][ PID: 4876 - NOTEPAD.EXE - pathsssss.txt - 记事本 ]
-abcdefgifdafasgryteyhtrgsfdawfefergrhafew[Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][ PID: 3356 - Explorer.EXE - dist ]
-[Next][Next][ PID: 8048 - firefox.exe - TROyeah/data/F8-16-54-C9-7E-30 at master · OXVyeah/TROyeah - Mozilla Firefox ]
-[Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][Next][ PID: 3356 - Explorer.EXE - dist ]
-[Next][Next][Up][Up][Up][Up][Up][Up][Up][Up][Up][Up][Up][Down][ PID: 3356 - Explorer.EXE - finalfinal ]
-sit[Back][Back][Back]ditst[Back][Back][Back]st[Return][Lshift][Space]old[Return][Launch_App1][ PID: 3356 - Explorer.EXE - finalfinal ]
-dist[Space]old[Return][ PID: 9988 - SnippingTool.exe - 另存为 ]
-[Next][Next][Next][Up][Up][Up][Up][Up][Next][Next][Up][Up][Up][Up][Up][Return][Down][Down][Down][Down][Return][Lshift]ouc[Back][Back][Back][Back]pic[Return][Return][Back][Delete]0[ PID: 9496 - firefox.exe - 统一身份认证平台-北京邮电大学 - Mozilla Firefox ]
-20111111789[Tab]jinran[ PID: 10172 - NOTEPAD.EXE - keylogger.txt - 记事本 ]
-[Back]
+[ PID: 9496 - firefox.exe - 统一身份认证平台-北京邮电大学 - Mozilla Firefox ]
+2011777888[Tab]
