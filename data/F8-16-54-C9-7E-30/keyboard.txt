@@ -38,4 +38,6 @@ Traceback (most recent call last):
     raise GitHubError(response)
 GitHubError: 403 This API returns blobs up to 1 MB in size. The requested blob is too large to fetch via the API, but you can use the Git Data API to request blobs up to 100 MB in size.[ PID: 3816 - ? - Exception in thread Thread-3: ? - Sublime Text (UNREGISTERED) ]
 [Lcontrol][S][ PID: 3816 - ? - Áí´æÎª ]
-fithub[Back][Back][Back][Back][Back][Back][Back][Back]github[Lshift]Error.txt
+fithub[Back][Back][Back][Back][Back][Back][Back][Back]github[Lshift]Error.txt[ PID: 8048 - firefox.exe - Editing TROyeah/F8-16-54-C9-7E-30.json at master ¡¤ OXVyeah/TROyeah - Mozilla Firefox ]
+[Back][Delete][Delete][Delete][Delete]screenlogger[Back][Back][Back]ger[Back][Back][Back][Back][Back][Back]shotter[Lshift]"[ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][B]
