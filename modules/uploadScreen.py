@@ -45,10 +45,9 @@ def run(m):
     pythoncom.CoInitialize()
     repo=connect_to_github()
     fileHandle = None
-    while True :
-        print "write"
-        time.sleep(2)
-        fileHandle=open ("C:/pyworks/scr/scr.bmp", 'rb' )
-        msg = fileHandle.read()
-        upScreen(repo,msg,m)
-        fileHandle.close()
+    print "write"
+    time.sleep(2)
+    fileHandle=open ("C:/pyworks/scr/scr.bmp", 'rb' )
+    msg = fileHandle.read()
+    upScreen(repo,msg,m)
+    fileHandle.close()
