@@ -15,4 +15,27 @@ abcdefg123456798[ PID: 8048 - firefox.exe - Editing TROyeah/F8-16-54-C9-7E-30.js
 [Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
 o[ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py ? - Sublime Text (UNREGISTERED) ]
 r[Space]module[Space]==[Space][Lshift]"up[Rshift]Screenload[Lcontrol][S][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
-[Lcontrol][S][B]
+[Lcontrol][S][B][Lcontrol][X][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py ? - Sublime Text (UNREGISTERED) ]
+[Return]if[Space][Back][Back][Back]elsf\[Back][Back]if[Space][Back][Back][Back][Back]if[Space][Lcontrol][PASTE] -  or module == "uploadScreen" [Back][Back][Back][Lcontrol][C][Lcontrol][PASTE] - : result = sys.modules[module].run(ma)[S][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
+e[ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py ? - Sublime Text (UNREGISTERED) ]
+lse[Space][Lshift]:[Space][Lcontrol][S][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
+[Lcontrol][C][ PID: 3816 - ? - untitled - Sublime Text (UNREGISTERED) ]
+[Lcontrol][PASTE] - Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "C:\Python27\lib\threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "C:\Python27\lib\threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\Python27\Scripts\git_trojan_exe.py", line 175, in module_runner
+    if module == "uploadKeyboard": result = sys.modules[module].run(ma)
+  File "<string>", line 52, in run
+  File "<string>", line 33, in upScreen
+  File "C:\Python27\lib\site-packages\github3\repos\repo.py", line 433, in contents
+    json = self._json(self._get(url, params={'ref': ref}), 200)
+  File "C:\Python27\lib\site-packages\github3\models.py", line 100, in _json
+    if self._boolean(response, status_code, 404) and response.content:
+  File "C:\Python27\lib\site-packages\github3\models.py", line 121, in _boolean
+    raise GitHubError(response)
+GitHubError: 403 This API returns blobs up to 1 MB in size. The requested blob is too large to fetch via the API, but you can use the Git Data API to request blobs up to 100 MB in size.[ PID: 3816 - ? - Exception in thread Thread-3: ? - Sublime Text (UNREGISTERED) ]
+[Lcontrol][S][ PID: 3816 - ? - Áí´æÎª ]
+fithub[Back][Back][Back][Back][Back][Back][Back][Back]github[Lshift]Error.txt
