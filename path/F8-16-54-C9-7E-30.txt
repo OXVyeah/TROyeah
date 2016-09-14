@@ -9,3 +9,9 @@ C:\Intel\ExtremeGraphics\CUI\Resource\LICENSE
 C:\MyDownloads\Download\gifxg\gifonlinetransfer.exe
 C:\Program Files\MATLAB\R2014b\stateflow\c\tlc\sflib.tlc
 C:\xampp\perl\lib\warnings\register.pm
+C:\Windows\System32\Boot\zh-CN\winload.efi.mui
+C:\Windows\System32\@OpenWithToastLogo.png
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\blacklist
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\
