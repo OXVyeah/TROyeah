@@ -1,0 +1,89 @@
+{
+  "manifest_format": 2,
+  "software": {
+    "ruby-windows": {
+      "locked_version": "2.1.7",
+      "locked_source": {
+        "sha256": "cf6e9f4bb156e70df4dcb5052011296edeb16bf02a4a4e476899a03ceed9a248",
+        "url": "http://dl.bintray.com/oneclick/rubyinstaller/ruby-2.1.7-i386-mingw32.7z?direct"
+      },
+      "source_type": "url",
+      "described_version": "2.1.7",
+      "license": "Unspecified"
+    },
+    "ruby-windows-devkit": {
+      "locked_version": "4.7.2-20130224-1151",
+      "locked_source": {
+        "url": "http://cdn.rubyinstaller.org/archives/devkits/DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe",
+        "md5": "9383f12958aafc425923e322460a84de"
+      },
+      "source_type": "url",
+      "described_version": "4.7.2-20130224-1151",
+      "license": "Unspecified"
+    },
+    "rubygems": {
+      "locked_version": "2.4.5",
+      "locked_source": {
+        "git": "https://github.com/rubygems/rubygems.git",
+        "md5": "5918319a439c33ac75fbbad7fd60749d",
+        "url": "http://production.cf.rubygems.org/rubygems/rubygems-2.4.5.tgz"
+      },
+      "source_type": "url",
+      "described_version": "2.4.5",
+      "license": "Unspecified"
+    },
+    "bundler": {
+      "locked_version": "1.10.6",
+      "locked_source": null,
+      "source_type": "project_local",
+      "described_version": "1.10.6",
+      "license": "Unspecified"
+    },
+    "winpcap-devpack": {
+      "locked_version": "4.1.2",
+      "locked_source": {
+        "md5": "bae2236af062b0900ad1416b2c4878b9",
+        "url": "https://www.winpcap.org/install/bin/WpdPack_4_1_2.zip"
+      },
+      "source_type": "url",
+      "described_version": "4.1.2",
+      "license": "Unspecified"
+    },
+    "pcaprub": {
+      "locked_version": "0.12.0",
+      "locked_source": null,
+      "source_type": "project_local",
+      "described_version": "0.12.0",
+      "license": "Unspecified"
+    },
+    "postgresql-windows": {
+      "locked_version": "9.4.5",
+      "locked_source": {
+        "sha256": "6d2163611b6b159246896898dd1ee23cf29972c9a0449a8aac9c126cfc88a87f",
+        "url": "http://get.enterprisedb.com/postgresql/postgresql-9.4.5-1-windows-binaries.zip"
+      },
+      "source_type": "url",
+      "described_version": "9.4.5",
+      "license": "Unspecified"
+    },
+    "metasploit-framework": {
+      "locked_version": "8cf62dc4ed0944a7968f1885d63eae80ed242e00",
+      "locked_source": {
+        "git": "https://github.com/rapid7/metasploit-framework.git"
+      },
+      "source_type": "git",
+      "described_version": "master",
+      "license": "Unspecified"
+    },
+    "metasploit-framework-wrappers-windows": {
+      "locked_version": "1.0.0",
+      "locked_source": null,
+      "source_type": "project_local",
+      "described_version": "1.0.0",
+      "license": "Unspecified"
+    }
+  },
+  "build_version": "4.12.24+20160913092438.git.2.5cbdadc-1rapid7",
+  "build_git_revision": "5cbdadc1c8088fa7278668f05da1dda3762eb3cd",
+  "license": "Unspecified"
+}
