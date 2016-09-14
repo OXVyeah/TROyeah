@@ -1,0 +1,11 @@
+C:\Users\user\berryman.jpg
+C:\Users\user\Videos\x.avi
+C:\pyworks\getmac.py
+C:\Users\user\Documents\Fiddler2\Scripts\miyama.mp3
+C:\metasploit-framework\embedded\include\libpq\libpq-fs.h
+C:\metasploit-framework\version-manifest.json
+C:\altera\91\ip\altera\alpha_blending_mixer\doc\ug_vip.pdf
+C:\Intel\ExtremeGraphics\CUI\Resource\LICENSE
+C:\MyDownloads\Download\gifxg\gifonlinetransfer.exe
+C:\Program Files\MATLAB\R2014b\stateflow\c\tlc\sflib.tlc
+C:\xampp\perl\lib\warnings\register.pm
