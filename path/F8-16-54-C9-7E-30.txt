@@ -12,6 +12,14 @@ C:\xampp\perl\lib\warnings\register.pm
 C:\Windows\System32\Boot\zh-CN\winload.efi.mui
 C:\Windows\System32\@OpenWithToastLogo.png
 C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\blacklist
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\blacklisted.certs
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\cacerts
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\java.policy
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\java.security
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\javaws.policy
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\local_policy.jar
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\trusted.libraries
+C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\US_export_policy.jar
+C:\Windows\System\Speech\xml.xsd
+C:\Windows\System\Speech\synthesis-core.xsd
+C:\Windows\System\Speech\speech-synthesis.xsd
