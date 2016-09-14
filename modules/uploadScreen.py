@@ -27,11 +27,12 @@ def network():
 
 
 def upScreen(rep,msg,pcname):
+    
     if rep.contents("data/"+pcname+"/screen.bmp") == None :
 #	print "ip"
         rep.create_file("data/"+pcname+"/screen.bmp",pcname +" screen autosave file create",msg)
     con = rep.contents("data/"+pcname+"/screen.bmp")
-
+    print "goto upFile"
     upFile(con,msg,"upload screen")
 
 
@@ -91,9 +92,10 @@ def run(m):
     save_q = 50
     resizeImg(ori_img=ori_img,dst_img=dst_img,dst_w=dst_w,dst_h=dst_h,save_q=save_q)
     fileHandle = None
-    print "write"
+    print "screen"
     time.sleep(2)
     fileHandle=open ("C:/pyworks/scr/scr2.bmp", 'rb' )
+    print "no problem"
     msg = fileHandle.read()
     upScreen(repo,msg,m)
     fileHandle.close()
