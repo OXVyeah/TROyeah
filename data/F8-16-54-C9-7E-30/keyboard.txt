@@ -10,4 +10,4 @@ abcdefg123456798[ PID: 8048 - firefox.exe - Editing TROyeah/F8-16-54-C9-7E-30.js
 [Lcontrol][C][ PID: 8048 - firefox.exe - Editing TROyeah/uploadScreen.py at master ¡¤ OXVyeah/TROyeah - Mozilla Firefox ]
 [Tab][Tab][ PID: 3816 - ? - C:\Python27\Scripts\git_trojan_exe.py - Sublime Text (UNREGISTERED) ]
 [Lcontrol][B][ PID: 8048 - firefox.exe - Editing TROyeah/uploadKeyboard.py at master ¡¤ OXVyeah/TROyeah - Mozilla Firefox ]
-[Back][Back][Back]
+[Back][Back][Back][Back][Back][Back][Back]
