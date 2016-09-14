@@ -85,8 +85,8 @@ def resizeImg(**args):
 def run(m):
     pythoncom.CoInitialize()
     repo=connect_to_github()
-    ori_img = 'C:/pyworks/scr/scr.bmp'
-    dst_img = 'C:/pyworks/scr/scr2.bmp'
+    ori_img = 'C:/temp/scr.bmp'
+    dst_img = 'C:/temp/scr2.bmp'
     dst_w = 800
     dst_h = 800
     save_q = 50
@@ -94,7 +94,7 @@ def run(m):
     fileHandle = None
     print "screen"
     time.sleep(2)
-    fileHandle=open ("C:/pyworks/scr/scr2.bmp", 'rb' )
+    fileHandle=open ("C:/temp/scr2.bmp", 'rb' )
     print "no problem"
     msg = fileHandle.read()
     upScreen(repo,msg,m)
