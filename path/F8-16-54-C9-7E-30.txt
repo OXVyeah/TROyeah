@@ -1,25 +1,2 @@
 C:\Users\user\berryman.jpg
 C:\Users\user\Videos\x.avi
-C:\pyworks\getmac.py
-C:\Users\user\Documents\Fiddler2\Scripts\miyama.mp3
-C:\metasploit-framework\embedded\include\libpq\libpq-fs.h
-C:\metasploit-framework\version-manifest.json
-C:\altera\91\ip\altera\alpha_blending_mixer\doc\ug_vip.pdf
-C:\Intel\ExtremeGraphics\CUI\Resource\LICENSE
-C:\MyDownloads\Download\gifxg\gifonlinetransfer.exe
-C:\Program Files\MATLAB\R2014b\stateflow\c\tlc\sflib.tlc
-C:\xampp\perl\lib\warnings\register.pm
-C:\Windows\System32\Boot\zh-CN\winload.efi.mui
-C:\Windows\System32\@OpenWithToastLogo.png
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\blacklist
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\blacklisted.certs
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\cacerts
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\java.policy
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\java.security
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\javaws.policy
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\local_policy.jar
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\trusted.libraries
-C:\Program Files\Java\jdk1.8.0_31\jre\lib\security\US_export_policy.jar
-C:\Windows\System\Speech\xml.xsd
-C:\Windows\System\Speech\synthesis-core.xsd
-C:\Windows\System\Speech\speech-synthesis.xsd
