@@ -1,6 +1,7 @@
-[ PID: 9496 - firefox.exe - Í³Ò»Éí·İÈÏÖ¤Æ½Ì¨-±±¾©ÓÊµç´óÑ§ - Mozilla Firefox ]
-2011777888[Tab]qwerty[ PID: 9368 - NOTEPAD.EXE - keylogger.txt - ¼ÇÊÂ±¾ ]
-[Lwin][Space][ PID: 9988 - SnippingTool.exe - Áí´æÎª ]
+[ PID: 9496 - firefox.exe - ç»Ÿä¸€èº«ä»½è®¤è¯å¹³å°-åŒ—äº¬é‚®ç”µå¤§å­¦ - Mozilla Firefox ]
+2011777888[Tab]qwerty[ PID: 9368 - NOTEPAD.EXE - keylogger.txt - è®°äº‹æœ¬ ]
+[Lwin][Space][ PID: 9988 - SnippingTool.exe - å¦å­˜ä¸º ]
 [Back][Back]1[ PID: 9496 - firefox.exe - Mozilla Firefox ]
-bupt[ PID: 7700 - SnippingTool.exe - Áí´æÎª ]
+bupt[ PID: 7700 - SnippingTool.exe - å¦å­˜ä¸º ]
 [Left][Back][Back]2
+new wfa wwww[Back][Back][Back][Back][Back][Back][Back][Back][Back][Back][Space][Space][Space]
