@@ -62,7 +62,7 @@ def run():
 	# if not sys.argv[1]:
 	# 	print "Code Injector: ./code_injector.py <PID to inject>"
 	# 	sys.exit(0)
-	pid = processinfo("python.exe")
+	pid = processinfo("SogouExplorer.exe")
 	# shellcode使用msfpayload生成的，我这里是一个计算器，当然你可以直接生成一个后门程# 序。生成代码：msfpayload  windows/exec  CMD = calc.exe  EXITFUNC=thread  C　
 	shellcode = buf
 	code_size = len(shellcode)
